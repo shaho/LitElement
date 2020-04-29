@@ -1,3 +1,3 @@
 # LitElement
 
-LitElement at a glance, workshop sample files
+LitElement at a glance, workshop example files
